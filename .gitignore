@@ -1,0 +1,32 @@
+## Build and output folders
+bin/
+obj/
+out/
+build/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.sln.docstates
+
+## IDE / Visual Studio / VSCode / JetBrains
+.vs/
+.vscode/
+.idea/
+*.swp
+*~
+
+## Export outputs & personal data
+exports/
+Exports/
+*.csv
+*.tsv
+*.log
+accounts.json
+
+## NuGet & Packages
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.assets.json
